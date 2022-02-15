@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Ak47Sterben
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ak47Sterben/Ak47Sterben is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Salut moi c'est @Ak47Sterben
+- 👀 Je suis plus dans le réseau que le dev, mais j'aime les deux
+- 🌱 j'apprends actuellement le HTML CSS
+- 📫 Pour me joindrefaut allersur mon discord https://discord.gg/ZM9GftFwA9 c'est la ou je suis actif
